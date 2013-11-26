@@ -35,6 +35,6 @@
     "grunt-contrib-jshint": "~0.4.3"
   },
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "bower install --allow-root"
   }
 }
